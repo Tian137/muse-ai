@@ -16,7 +16,6 @@ DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,stripecdn.com
 DOMAIN-SUFFIX,hcaptcha.com
 # WhatsApp（2026-10-09 追加，来源 blackmatrix7/ios_rule_script）
-DOMAIN,graph.facebook.com
 DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,whatsapp.biz
 DOMAIN-SUFFIX,whatsapp.com
